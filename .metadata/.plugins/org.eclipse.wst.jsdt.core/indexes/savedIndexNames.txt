@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Bikkad It Class\GIT Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2631096236.index
+3963895933.index
+2247231567.index
+3626409856.index
+469023392.index
+178068884.index
+896327051.index
